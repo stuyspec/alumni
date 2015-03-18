@@ -1,3 +1,19 @@
+# OS X Junkfiles
+.DS_Store
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
